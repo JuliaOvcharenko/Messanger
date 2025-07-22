@@ -2,7 +2,6 @@
 
 ## Навігація | Navigation on README:
 - [Мета створення проєкту | Purpose of the Project](#мета-створення-проєкту--purpose-of-the-project)
-- [Склад команди | Team members | Developers](#склад-команди--team-members--developers)
 - [Посилання | Links](#посилання--links)
 - [Структура | Structure of the project](#структура--structure-of-the-project)
 - [Функціонал кожного з додатків | Functionality of each application](#функціонал-кожного-з-додатків--functionality-of-each-application)
@@ -17,22 +16,6 @@
 ___
 
 The goal of this project is to practice newly learned parts of the Django framework: Django Forms, Class-Based Views, and Django Channels for working with WebSockets. It also includes using Ajax and formatting dates in ISO format. The main aim is to improve our programming skills, learn to work better and effectively as a team, and apply design ideas in practice.
-
-## Склад команди | Team members | Developers
-
-* [**Ващенко Артем**](https://github.com/VashchenkoArtem) — Teamlead
-* [**Овчаренко Юлія**](https://github.com/JuliaOvcharenko)
-* [**Сафонова Анна**](https://github.com/AnnaSafonova30)
-* [**Марков Дмитро**](https://github.com/DmitriyM08)
-* [**Харлан Кирило**](https://github.com/KirillKharlan)
-
-___
-
-* [**Vashchenko Artem**](https://github.com/VashchenkoArtem) — Teamlead
-* [**Ovcharenko Yuliia**](https://github.com/JuliaOvcharenko)
-* [**Safonova Anna**](https://github.com/AnnaSafonova30)
-* [**Markov Dmitro**](https://github.com/DmitriyM08)
-* [**Kharlan Kyrylo**](https://github.com/KirillKharlan)
 
 ## Посилання | Links
 
